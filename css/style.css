@@ -124,7 +124,7 @@ img{
     display:inline-block;
     width:100px;
     height:1px;
-    background:#e1bd85
+    background:#27775b
 }
 .box-border.w350{
     width:350px
@@ -197,8 +197,8 @@ img{
     border:2px solid #000
 }
 .awe-btn.awe-btn-default:hover{
-    border-color:#e1bd85;
-    background-color:#e1bd85;
+    border-color:#27775b;
+    background-color:#27775b;
     color:#fff
 }
 .awe-btn.awe-btn-1{
@@ -242,12 +242,12 @@ img{
     color:#fff
 }
 .awe-btn.awe-btn-6{
-    border:2px solid #e1bd85;
-    background-color:#e1bd85;
+    border:2px solid #27775b;
+    background-color:#27775b;
     color:#fff
 }
 .awe-btn.awe-btn-6:hover{
-    color:#e1bd85;
+    color:#27775b;
     background-color:transparent
 }
 .awe-btn.awe-btn-7{
@@ -300,20 +300,20 @@ img{
     color:#fff
 }
 .awe-btn.awe-btn-12:hover{
-    color:#e1bd85;
-    background-color:#e1bd85;
-    border-color:#e1bd85;
+    color:#27775b;
+    background-color:#27775b;
+    border-color:#27775b;
     color:#fff
 }
 .awe-btn.awe-btn-13{
-    border:2px solid #e1bd85;
-    background-color:#e1bd85;
+    border:2px solid #27775b;
+    background-color:#27775b;
     color:#fff
 }
 .awe-btn.awe-btn-13:hover{
-    border-color:#e1bd85;
+    border-color:#27775b;
     background-color:#fff;
-    color:#e1bd85 !important
+    color:#27775b !important
 }
 .awe-btn.awe-btn-13.btn-order{
     height:54px;
@@ -326,8 +326,8 @@ img{
     border:2px solid #000
 }
 .awe-btn.awe-btn-14:hover{
-    border-color:#e1bd85;
-    background-color:#e1bd85;
+    border-color:#27775b;
+    background-color:#27775b;
     color:#fff
 }
 section{
@@ -476,7 +476,7 @@ blockquote p:after{
     background-color:#f1f1f1
 }
 .bg-blue{
-    background-color:#e1bd85
+    background-color:#27775b
 }
 .tabs{
     background-color:transparent;
@@ -513,7 +513,7 @@ blockquote p:after{
     font-family:'Hind'
 }
 .tabs .ui-tabs-nav li:hover a,.tabs .ui-tabs-nav li.ui-tabs-active a{
-    color:#e1bd85 !important
+    color:#27775b !important
 }
 .tabs .ui-tabs-panel{
     padding:0;
@@ -533,14 +533,14 @@ blockquote p:after{
 }
 .tabs.tabs-2 .ui-tabs-nav li:hover a{
     color:#232323 !important;
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .tabs.tabs-2 .ui-tabs-nav li.ui-tabs-active a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff !important
 }
 .accordion .ui-accordion-header{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff;
     padding:10px 20px;
     font-family:'Hind';
@@ -562,7 +562,7 @@ blockquote p:after{
 .accordion .ui-accordion-content{
     background-color:transparent;
     padding:15px 20px;
-    border:2px solid #e1bd85;
+    border:2px solid #27775b;
     -webkit-border-radius:0;
     -moz-border-radius:0;
     border-radius:0
@@ -661,17 +661,17 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .bootstrap-select.btn-group.awe-select .dropdown-menu ul li a:hover{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff;
-    border-bottom-color:#e1bd85
+    border-bottom-color:#27775b
 }
 .bootstrap-select.btn-group.awe-select .dropdown-menu ul li:last-child a{
     border-bottom-width:0
 }
 .bootstrap-select.btn-group.awe-select .dropdown-menu ul li.selected a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff;
-    border-bottom-color:#e1bd85
+    border-bottom-color:#27775b
 }
 .tab-price table{
     width:100%;
@@ -706,7 +706,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .tab-price table caption a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .tab-price table caption a.prev{
     left:0
@@ -744,7 +744,7 @@ blockquote p:after{
     color:#b0afaf
 }
 .tab-price table tr td.date-select{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .ui-datepicker{
@@ -812,7 +812,7 @@ blockquote p:after{
     float:right
 }
 .ui-datepicker .ui-datepicker-header .ui-corner-all.ui-state-hover{
-    background:#e1bd85
+    background:#27775b
 }
 .ui-datepicker .ui-state-disabled,.ui-datepicker .ui-widget-content .ui-state-disabled,.ui-datepicker .ui-widget-header .ui-state-disabled{
     opacity:.8
@@ -838,7 +838,7 @@ blockquote p:after{
     color:#fff;
     font-family:'Montserrat';
     font-weight:normal;
-    background-color:#e1bd85;
+    background-color:#27775b;
     padding:12px 5px
 }
 .ui-datepicker .ui-datepicker-calendar tbody{
@@ -857,12 +857,12 @@ blockquote p:after{
     line-height:30px
 }
 .ui-datepicker .ui-datepicker-calendar td a.ui-state-active,.ui-datepicker .ui-datepicker-calendar td a:hover{
-    border:1px solid #e1bd85
+    border:1px solid #27775b
 }
 .ui-datepicker .ui-datepicker-calendar td.ui-datepicker-today a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff;
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .owl-controls .owl-prev,.owl-controls .owl-next{
     color:#fff;
@@ -889,8 +889,8 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .owl-controls .owl-prev:hover,.owl-controls .owl-next:hover{
-    color:#e1bd85;
-    border-color:#e1bd85
+    color:#27775b;
+    border-color:#27775b
 }
 .owl-controls .owl-prev{
     left:10px
@@ -997,7 +997,7 @@ blockquote p:after{
     content:'';
     height:2px;
     width:20px;
-    background-color:#e1bd85;
+    background-color:#27775b;
     position:absolute;
     top:0;
     left:0;
@@ -1058,11 +1058,11 @@ blockquote p:after{
     background-image:url('../images/banner/img-12.jpg')
 }
 .bg-13{
-    background-image:url('../images/banner/img-13.jpg')
+    background-image:url('https://landing.engotheme.com/html/lotus/demo/images/home-3/footer/footer-center.png')
 }
-.bg-14{
+/* .bg-14{
     background-image:url('../images/banner/img-14.jpg')
-}
+} */
 .bg-15{
     background-image:url('../images/banner/img-15.jpg')
 }
@@ -1110,17 +1110,17 @@ blockquote p:after{
 }
 #header.header-v2 .header_content .menu li .sub-menu li a:hover{
     color:#fff;
-    background:#e1bd85
+    background:#27775b
 }
 #header.header-v2 .header_content .menu li .sub-menu li.current-menu-item a{
     color:#fff;
-    background:#e1bd85
+    background:#27775b
 }
 #header.header-sticky{
     margin-top:-38px
 }
 .header_top{
-    background:transparent
+    background:#27775b;
 }
 .header_top:after{
     display:table;
@@ -1159,9 +1159,10 @@ blockquote p:after{
     color:#333
 }
 .header_top .header_right .dropdown{
-    font-size:12px;
+    font-size:16px;
     position:relative;
-    display:inline-block
+    display:inline-block;
+    padding-top:10px;
 }
 .header_top .header_right .dropdown span{
     color:#fff;
@@ -1210,11 +1211,11 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .header_top .header_right .dropdown ul li a:hover{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_top .header_right .dropdown ul li.active a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_top .header_right .dropdown:hover span{
@@ -1271,7 +1272,7 @@ blockquote p:after{
 .header_content .menu>li>a{
     display:block;
     padding:0 20px;
-    line-height:84px;
+    line-height:89px;
     color:#232323;
     font-weight:500;
     text-transform:uppercase;
@@ -1282,11 +1283,11 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .header_content .menu>li.current-menu-item>a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_content .menu>li:hover>a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_content .menu>li:hover>.sub-menu{
@@ -1342,11 +1343,11 @@ blockquote p:after{
     top:2px
 }
 .header_content .menu>li .sub-menu li.current-menu-item>a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_content .menu>li .sub-menu li:hover>a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .header_content .menu>li .sub-menu li:hover>.sub-menu{
@@ -1366,9 +1367,9 @@ blockquote p:after{
     float:left;
     line-height:84px
 }
-.header_logo img{
+/* .header_logo img{
     max-height:53px
-}
+} */
 .menu-bars{
     color:#333;
     width:50px;
@@ -1427,14 +1428,14 @@ blockquote p:after{
     background-color:transparent
 }
 .menu-bars:hover span:after{
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transform:rotate(-45deg);
     -moz-transform:rotate(-45deg);
     -ms-transform:rotate(-45deg);
     -o-transform:rotate(-45deg)
 }
 .menu-bars:hover span:before{
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transform:rotate(45deg);
     -moz-transform:rotate(45deg);
     -ms-transform:rotate(45deg);
@@ -1447,14 +1448,14 @@ blockquote p:after{
     background-color:transparent
 }
 .menu-bars.active span:after{
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transform:rotate(45deg);
     -moz-transform:rotate(45deg);
     -ms-transform:rotate(45deg);
     -o-transform:rotate(45deg)
 }
 .menu-bars.active span:before{
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transform:rotate(-45deg);
     -moz-transform:rotate(-45deg);
     -ms-transform:rotate(-45deg);
@@ -1488,7 +1489,7 @@ blockquote p:after{
     right:-270px;
     width:270px;
     overflow-y:auto;
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transition:right .5s cubic-bezier(0, .67, .35, .94);
     -moz-transition:right .5s cubic-bezier(0, .67, .35, .94);
     -ms-transition:right .5s cubic-bezier(0, .67, .35, .94);
@@ -1679,7 +1680,7 @@ blockquote p:after{
 #preloader .preloader-dot{
     width:0;
     height:0;
-    border:2px solid #e1bd85;
+    border:2px solid #27775b;
     position:absolute;
     top:0;
     left:0;
@@ -1806,18 +1807,18 @@ blockquote p:after{
 }
 .accomd-modations-room .text{
     position:absolute;
-    background-color:rgba(0,0,0,0.7);
+    background-color:#27775b;
     padding:10px 20px;
-    bottom:20px;
+    bottom:0;
     left:0;
-    right:0
+    right:0;
+    text-align: center;
 }
 .accomd-modations-room .text h2{
     font-size:20px;
     font-weight:normal;
     margin:0;
     font-family:'Hind';
-    float:left
 }
 .accomd-modations-room .text h2 a{
     color:#fff;
@@ -1827,10 +1828,10 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .accomd-modations-room .text h2 a:hover{
-    color:#e1bd85
+    color:#fff;
 }
 .accomd-modations-room .text .price{
-    color:#e1bd85;
+    color:#27775b;
     margin-bottom:0;
     font-family:'Montserrat';
     margin-top:0;
@@ -1908,7 +1909,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .accomd-modations-room_1 .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .accomd-modations-room_1 .text .desc{
     color:#333333;
@@ -1930,7 +1931,7 @@ blockquote p:after{
     padding-top:12px
 }
 .accomd-modations-room_1 .text .price .amout{
-    color:#e1bd85;
+    color:#27775b;
     font-size:30px
 }
 .accomd-modations-room_1 .text .wrap-price{
@@ -2006,8 +2007,8 @@ blockquote p:after{
 }
 .check-availability h2:before{
     content:'\f00c';
-    border:3px solid #e1bd85;
-    color:#e1bd85;
+    border:3px solid #27775b;
+    color:#27775b;
     font-size:18px;
     display:block;
     width:40px;
@@ -2309,14 +2310,14 @@ blockquote p:after{
     text-transform:uppercase
 }
 .news-item .text h2 a{
-    color:#e1bd85;
+    color:#27775b;
     -webkit-transition:all .3s ease;
     -moz-transition:all .3s ease;
     -ms-transition:all .3s ease;
     -o-transition:all .3s ease
 }
 .news-item .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .news-item .text .read-more{
     display:inline-block;
@@ -2329,7 +2330,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .news-item .text .read-more:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .news-item:hover img{
     transform:scale(1.1)
@@ -2571,11 +2572,11 @@ blockquote p:after{
     -ms-transition:all .3s ease-out;
     -o-transition:all .3s ease-out;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85)
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b)
 }
 .gallery-content .gallery_item .text{
     position:absolute;
@@ -2671,7 +2672,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .gallery-cat ul li:hover a,.gallery-cat ul li.active a{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .mfp-wrap{
@@ -2707,7 +2708,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .mfp-wrap .mfp-content .mfp-figure .mfp-close:hover{
-    background-color:#e1bd85
+    background-color:#27775b
 }
 .mfp-wrap .mfp-content .mfp-figure .mfp-img{
     padding:30px 30px 60px 30px
@@ -2759,8 +2760,8 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .mfp-wrap .mfp-prevent-close:hover{
-    color:#e1bd85;
-    border-color:#e1bd85
+    color:#27775b;
+    border-color:#27775b
 }
 .mfp-wrap .mfp-prevent-close.mfp-prevent-left{
     left:10px
@@ -2807,7 +2808,7 @@ blockquote p:after{
 }
 .sidebar .widget.widget_check_availability .check_availability .check_availability_title{
     margin-top:25px;
-    color:#e1bd85;
+    color:#27775b;
     font-size:14px;
     text-transform:uppercase;
     font-family:'Montserrat';
@@ -2966,7 +2967,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .sidebar .widget.widget_categories ul li:hover>a,.sidebar .widget.widget_categories ul li.current-cat>a{
-    color:#e1bd85
+    color:#27775b
 }
 .sidebar .widget.widget_categories ul li .sub-menu{
     margin-left:20px;
@@ -3018,7 +3019,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .sidebar .widget.widget_upcoming_events ul li .text a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .sidebar .widget.widget_upcoming_events ul li .text .date{
     display:block;
@@ -3026,8 +3027,8 @@ blockquote p:after{
     margin-top:5px
 }
 .sidebar .widget.widget_upcoming_events ul li:hover .event-date{
-    border-color:#e1bd85;
-    color:#e1bd85
+    border-color:#27775b;
+    color:#27775b
 }
 .sidebar .widget.widget_recent_entries ul{
     margin-top:-7px
@@ -3055,7 +3056,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .sidebar .widget.widget_recent_entries ul li a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .sidebar .widget.widget_recent_entries ul li .date{
     display:block;
@@ -3087,8 +3088,8 @@ blockquote p:after{
 }
 .sidebar .widget.widget_tag_cloud .tagcloud a:hover{
     color:#fff;
-    background-color:#e1bd85;
-    border-color:#e1bd85
+    background-color:#27775b;
+    border-color:#27775b
 }
 .sidebar .widget.widget_social .widget-social{
     font-size:0;
@@ -3114,8 +3115,8 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .sidebar .widget.widget_social .widget-social a:hover{
-    color:#e1bd85;
-    border-color:#e1bd85
+    color:#27775b;
+    border-color:#27775b
 }
 .widgetsearch{
     position:relative;
@@ -3258,7 +3259,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .post .entry-header h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .post .entry-header .entry-meta{
     margin-top:10px;
@@ -3306,7 +3307,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .post .entry-meta a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .post .entry-meta a .entry-author-name{
     font-weight:bold;
@@ -3317,7 +3318,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .post .entry-meta a .entry-author-name:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .post .entry-content{
     color:#444444;
@@ -3334,7 +3335,7 @@ blockquote p:after{
     text-decoration:underline
 }
 .post .entry-content a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .post .entry-footer{
     padding-left:100px;
@@ -3397,7 +3398,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .page-navigation li a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .page-navigation li.first a,.page-navigation li.last a{
     font-size:13px;
@@ -3412,7 +3413,7 @@ blockquote p:after{
     border-radius:100%
 }
 .page-navigation li.first a:hover,.page-navigation li.last a:hover{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .page-navigation li.current-page{
     font-weight:bold;
@@ -3495,7 +3496,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 #comments .commentlist li .comment-body .comment-meta a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 #comments .commentlist li .comment-body .action{
     float:right;
@@ -3569,7 +3570,7 @@ blockquote p:after{
     color:#232323
 }
 .comment-respond .comment-form .field-text:focus,.comment-respond .comment-form .field-textarea:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .comment-respond .comment-form .field-textarea{
     resize:none;
@@ -3619,16 +3620,16 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .restaurant_item .img a:before{
-    border-right:3px solid #e1bd85;
-    border-bottom:3px solid #e1bd85;
+    border-right:3px solid #27775b;
+    border-bottom:3px solid #27775b;
     -webkit-transform-origin:bottom right;
     -moz-transform-origin:bottom right;
     -ms-transform-origin:bottom right;
     -o-transform-origin:bottom right
 }
 .restaurant_item .img a:after{
-    border-left:3px solid #e1bd85;
-    border-top:3px solid #e1bd85;
+    border-left:3px solid #27775b;
+    border-top:3px solid #27775b;
     -webkit-transform-origin:top left;
     -moz-transform-origin:top left;
     -ms-transform-origin:top left;
@@ -3672,7 +3673,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .restaurant_item .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .restaurant_item .text .desc{
     color:#444;
@@ -3685,7 +3686,7 @@ blockquote p:after{
     text-align:right;
     font-family:'Montserrat';
     font-size:18px;
-    color:#e1bd85;
+    color:#27775b;
     line-height:1.428em;
     position:absolute;
     top:0;
@@ -3738,7 +3739,7 @@ blockquote p:after{
     font-size:30px;
     margin-bottom:0;
     margin-top:15px;
-    color:#e1bd85
+    color:#27775b
 }
 .restaurant_item.lager-thumbs .text .price del{
     display:inline-block;
@@ -3843,7 +3844,7 @@ blockquote p:after{
     left:0;
     width:0;
     bottom:-2px;
-    border-top:2px solid #e1bd85;
+    border-top:2px solid #27775b;
     -webkit-transition:all .3s ease;
     -moz-transition:all .3s ease;
     -ms-transition:all .3s ease;
@@ -3872,7 +3873,7 @@ blockquote p:after{
     margin-top:5px
 }
 .tabs-restaurant .ui-tabs-nav li:hover a,.tabs-restaurant .ui-tabs-nav li.ui-state-active a{
-    color:#e1bd85
+    color:#27775b
 }
 .tabs-restaurant .ui-tabs-nav li:hover:before,.tabs-restaurant .ui-tabs-nav li.ui-state-active:before{
     width:100%
@@ -4070,7 +4071,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .event-restaurant_content li .text a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .section-room{
     padding-top:45px;
@@ -4093,7 +4094,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room_item-1 h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room_item-1 .img{
     position:relative;
@@ -4110,11 +4111,11 @@ blockquote p:after{
     opacity:0;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -4241,11 +4242,11 @@ blockquote p:after{
     z-index:1;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -4277,7 +4278,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room_item-2 .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room_item-2 .text .price{
     display:block;
@@ -4327,11 +4328,11 @@ blockquote p:after{
     opacity:0;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -4387,16 +4388,16 @@ blockquote p:after{
     -o-transition:all .5s ease
 }
 .room_item-3 .text-thumbs .thumbs:before{
-    border-right:4px solid #e1bd85;
-    border-bottom:4px solid #e1bd85;
+    border-right:4px solid #27775b;
+    border-bottom:4px solid #27775b;
     -webkit-transform-origin:bottom right;
     -moz-transform-origin:bottom right;
     -ms-transform-origin:bottom right;
     -o-transform-origin:bottom right
 }
 .room_item-3 .text-thumbs .thumbs:after{
-    border-left:4px solid #e1bd85;
-    border-top:4px solid #e1bd85;
+    border-left:4px solid #27775b;
+    border-top:4px solid #27775b;
     -webkit-transform-origin:top left;
     -moz-transform-origin:top left;
     -ms-transform-origin:top left;
@@ -4426,7 +4427,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room_item-3 .text-thumbs .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room_item-3 .text-thumbs .text .price{
     display:block;
@@ -4488,11 +4489,11 @@ blockquote p:after{
     opacity:0;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -4516,7 +4517,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room_item-4 .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room_item-4 .text .price{
     display:block;
@@ -4565,16 +4566,16 @@ blockquote p:after{
     -o-transition:all .5s ease
 }
 .room_item-4 .thumbs:before{
-    border-right:3px solid #e1bd85;
-    border-bottom:3px solid #e1bd85;
+    border-right:3px solid #27775b;
+    border-bottom:3px solid #27775b;
     -webkit-transform-origin:bottom right;
     -moz-transform-origin:bottom right;
     -ms-transform-origin:bottom right;
     -o-transform-origin:bottom right
 }
 .room_item-4 .thumbs:after{
-    border-left:3px solid #e1bd85;
-    border-top:3px solid #e1bd85;
+    border-left:3px solid #27775b;
+    border-top:3px solid #27775b;
     -webkit-transform-origin:top left;
     -moz-transform-origin:top left;
     -ms-transform-origin:top left;
@@ -4656,11 +4657,11 @@ blockquote p:after{
     opacity:0;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -4814,11 +4815,11 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room_item-6 .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room_item-6 .text .price{
     display:block;
-    color:#e1bd85;
+    color:#27775b;
     text-transform:uppercase;
     font-family:'Montserrat';
     margin-top:7px
@@ -4934,7 +4935,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room-detail_img .apb-zoom:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room-detail_thumbs{
     margin-top:10px
@@ -4943,7 +4944,7 @@ blockquote p:after{
     padding:0 5px
 }
 .room-detail_thumbs .owl-item.active a:before{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .room-detail_thumbs a{
     display:block;
@@ -4965,7 +4966,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room-detail_thumbs a:hover::before{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .room-detail_thumbs a img{
     width:100%
@@ -4987,7 +4988,7 @@ blockquote p:after{
     -o-transform:translate(0, 0)
 }
 .room-detail_thumbs .owl-prev:hover,.room-detail_thumbs .owl-next:hover{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff
 }
 .room-detail_thumbs .owl-prev .fa,.room-detail_thumbs .owl-next .fa{
@@ -5114,14 +5115,14 @@ blockquote p:after{
     position:absolute;
     left:0;
     bottom:-2px;
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-transition:all .3s ease;
     -moz-transition:all .3s ease;
     -ms-transition:all .3s ease;
     -o-transition:all .3s ease
 }
 .room-detail_tab-header li.active a,.room-detail_tab-header li:hover a{
-    color:#e1bd85
+    color:#27775b
 }
 .room-detail_tab-header li.active a:before,.room-detail_tab-header li:hover a:before{
     width:100%
@@ -5209,7 +5210,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room-package_item .text h4 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room-package_item .text p{
     color:#898989;
@@ -5323,8 +5324,8 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .calendar_custom .calendar_title .calendar_corner:hover{
-    color:#e1bd85;
-    border-color:#e1bd85
+    color:#27775b;
+    border-color:#27775b
 }
 .calendar_custom .calendar_title .calendar_corner.calendar_prev{
     left:0
@@ -5455,7 +5456,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .room-compare_item .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .room-compare_item .text ul{
     color:#898989;
@@ -5513,7 +5514,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .activiti_item .text h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .activiti_item .text p{
     color:#232323;
@@ -5536,7 +5537,7 @@ blockquote p:after{
     font-size:9px
 }
 .activiti_item .text .view-more:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .activiti_item:hover .img:before{
     opacity:.7;
@@ -5584,7 +5585,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .checkout .checkout_login a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .checkout .checkout_head{
     margin-top:30px
@@ -5618,7 +5619,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .checkout .bootstrap-select.btn-group.awe-select .dropdown-toggle:hover{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .checkout .bootstrap-select.btn-group.awe-select .dropdown-toggle .filter-option{
     color:#232323
@@ -5649,7 +5650,7 @@ blockquote p:after{
     color:#232323
 }
 .checkout .field-text:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .checkout .field-textarea{
     border:2px solid #232323;
@@ -5675,7 +5676,7 @@ blockquote p:after{
     color:#232323
 }
 .checkout .field-textarea:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .checkout .field-radio{
     display:inline-block;
@@ -5698,7 +5699,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .checkout .code-enter a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .checkout .checkout_text{
     margin-bottom:0;
@@ -5736,11 +5737,11 @@ blockquote p:after{
     z-index:10;
     pointer-events:none;
     background-color:transparent;
-    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#e1bd85));
-    background:-webkit-linear-gradient(top, transparent, #e1bd85);
-    background:-moz-linear-gradient(top, transparent, #e1bd85);
-    background:-ms-linear-gradient(top, transparent, #e1bd85);
-    background:-o-linear-gradient(top, transparent, #e1bd85);
+    background:-webkit-gradient(linear, left top, left bottom, from(transparent), to(#27775b));
+    background:-webkit-linear-gradient(top, transparent, #27775b);
+    background:-moz-linear-gradient(top, transparent, #27775b);
+    background:-ms-linear-gradient(top, transparent, #27775b);
+    background:-o-linear-gradient(top, transparent, #27775b);
     -webkit-transition:all .3s ease-out;
     -moz-transition:all .3s ease-out;
     -ms-transition:all .3s ease-out;
@@ -5761,7 +5762,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .checkout .checkout_cart .cart-item .text a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .checkout .checkout_cart .cart-item .text p{
     margin:0;
@@ -5786,7 +5787,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .checkout .checkout_cart .cart-item .remove:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .checkout .checkout_cart .cart-item:hover .img:before{
     opacity:.5;
@@ -5921,7 +5922,7 @@ blockquote p:after{
     padding-bottom:30px
 }
 .attraction_sidebar .attraction_sidebar-content .attraction_title{
-    background-color:#e1bd85;
+    background-color:#27775b;
     color:#fff;
     font-family:'Montserrat';
     font-size:12px;
@@ -5973,10 +5974,10 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .attraction_sidebar .attraction_sidebar-content .attraction_location li a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .attraction_sidebar .attraction_sidebar-content .attraction_location li.active a{
-    color:#e1bd85
+    color:#27775b
 }
 .attraction_detail{
     margin-top:60px
@@ -5989,7 +5990,7 @@ blockquote p:after{
     font-size:20px
 }
 .attraction_detail .attraction_detail-title i{
-    color:#e1bd85;
+    color:#27775b;
     margin-right:20px
 }
 .attraction_detail ul{
@@ -6011,7 +6012,7 @@ blockquote p:after{
     margin-right:20px
 }
 .attraction_detail ul li a{
-    color:#e1bd85
+    color:#27775b
 }
 .attraction_content{
     border-top:1px solid #e4e4e4;
@@ -6036,12 +6037,12 @@ blockquote p:after{
     color:#333
 }
 .attraction_content p a{
-    color:#e1bd85;
+    color:#27775b;
     text-decoration:underline;
     font-weight:bold
 }
 .attraction_content p a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .attraction_content .wp_caption{
     max-width:100%
@@ -6249,14 +6250,14 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .team_item .text .team-share a:hover{
-    border-color:#e1bd85;
-    color:#e1bd85
+    border-color:#27775b;
+    color:#27775b
 }
 .team_item:hover:before{
     width:100%
 }
 .team_item:hover .img:before{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .team_item:hover .img img{
     -webkit-transform:scale(1.1);
@@ -6344,16 +6345,16 @@ blockquote p:after{
     -o-transition:all .5s ease
 }
 .guest-book_item:before{
-    border-right:2px solid #e1bd85;
-    border-bottom:2px solid #e1bd85;
+    border-right:2px solid #27775b;
+    border-bottom:2px solid #27775b;
     -webkit-transform-origin:bottom right;
     -moz-transform-origin:bottom right;
     -ms-transform-origin:bottom right;
     -o-transform-origin:bottom right
 }
 .guest-book_item:after{
-    border-left:2px solid #e1bd85;
-    border-top:2px solid #e1bd85;
+    border-left:2px solid #27775b;
+    border-top:2px solid #27775b;
     -webkit-transform-origin:top left;
     -moz-transform-origin:top left;
     -ms-transform-origin:top left;
@@ -6391,7 +6392,7 @@ blockquote p:after{
     border-radius:100%
 }
 .guest-book_item .avatar:before{
-    border:3px solid #e1bd85;
+    border:3px solid #27775b;
     position:absolute;
     content:'';
     top:0;
@@ -6523,7 +6524,7 @@ blockquote p:after{
     margin-top:20px
 }
 .comingsoon h1 span{
-    color:#e1bd85
+    color:#27775b
 }
 .comingsoon h6{
     color:#fff;
@@ -6605,7 +6606,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .comingsoon .widget_social .widget-social a:hover{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .section-account{
     padding-top:220px;
@@ -6657,7 +6658,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .login-register .text .account_form .field-form .view-pass:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .login-register .text .account_form .field-form .field-text{
     background-color:transparent;
@@ -6686,7 +6687,7 @@ blockquote p:after{
     color:#fff
 }
 .login-register .text .account_form .field-form .field-text:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .login-register .text .account_form .field-form .awe-btn{
     min-width:180px;
@@ -6710,7 +6711,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .login-register .text .account_form .account-desc a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .section-404{
     position:fixed;
@@ -6740,7 +6741,7 @@ blockquote p:after{
     margin-top:50px
 }
 .page-404 h1 span{
-    color:#e1bd85
+    color:#27775b
 }
 .page-404 h6{
     color:#fff;
@@ -6766,7 +6767,7 @@ blockquote p:after{
     -o-transition:all .2s ease
 }
 .page-404 p a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .page-404 .search-404{
     margin-top:35px
@@ -6796,7 +6797,7 @@ blockquote p:after{
     color:#fff
 }
 .page-404 .search-404 .filed-text:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .page-404 .search-404 .awe-btn{
     vertical-align:middle;
@@ -6837,7 +6838,7 @@ blockquote p:after{
     padding:7px 0
 }
 .contact .text ul li .icon{
-    color:#e1bd85;
+    color:#27775b;
     font-size:20px;
     margin-right:20px;
     vertical-align:middle
@@ -6864,7 +6865,7 @@ blockquote p:after{
     font-size:24px
 }
 .contact .contact-location .btn-collapse:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .contact .contact-location .location-group{
     margin-top:25px
@@ -6906,7 +6907,7 @@ blockquote p:after{
     line-height:28px;
     text-align:center;
     color:#fff;
-    background-color:#e1bd85;
+    background-color:#27775b;
     -webkit-border-radius:100%;
     -moz-border-radius:100%;
     border-radius:100%
@@ -6950,7 +6951,7 @@ blockquote p:after{
     color:#232323
 }
 .contact .contact-form .field-text:focus,.contact .contact-form .field-textarea:focus{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .contact .contact-form .field-textarea{
     resize:none;
@@ -7106,7 +7107,7 @@ blockquote p:after{
     margin-right:5px
 }
 .reservation_step ul li.active:before,.reservation_step ul li:hover:before{
-    background-color:#e1bd85
+    background-color:#27775b
 }
 .reservation-date{
     margin-top:30px
@@ -7177,19 +7178,19 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name h2 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name .reservation-amout{
     float:right;
     font-weight:bold;
     font-size:14px;
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name.has-package h2{
     font-size:16px
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_name.has-package h2 a{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_change{
     color:#898989;
@@ -7204,7 +7205,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_change:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_package{
     border-top:1px solid #e4e4e4;
@@ -7246,7 +7247,7 @@ blockquote p:after{
 }
 .reservation-room-selected .reservation-room-seleted_item .reservation-room-seleted_total-room .reservation-amout{
     float:right;
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room-selected .reservation-room-seleted_item.reservation_disable{
     background-color:#f1f1f1
@@ -7302,7 +7303,7 @@ blockquote p:after{
 }
 .reservation-room-selected .reservation-room-seleted_total .reservation-total{
     float:right;
-    color:#e1bd85;
+    color:#27775b;
     font-size:18px
 }
 .reservation-room-selected .reservation-room-seleted_total.bg-blue{
@@ -7334,7 +7335,7 @@ blockquote p:after{
 }
 .reservation-sidebar_availability .check_availability_title{
     margin-top:20px;
-    color:#e1bd85;
+    color:#27775b;
     font-size:14px;
     text-transform:uppercase;
     font-family:'Montserrat';
@@ -7457,7 +7458,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-calendar_custom .reservation-calendar_title .reservation-calendar_corner:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-calendar_custom .reservation-calendar_title .reservation-calendar_corner.reservation-calendar_prev{
     left:0
@@ -7525,10 +7526,10 @@ blockquote p:after{
     -o-transform:translate(-50%, -50%)
 }
 .reservation-calendar_custom .reservation-calendar_tabel td a:hover:before{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 .reservation-calendar_custom .reservation-calendar_tabel td.current-select{
-    background-color:#e1bd85
+    background-color:#27775b
 }
 .reservation-calendar_custom .reservation-calendar_tabel td.current-select a{
     color:#fff
@@ -7557,7 +7558,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-room_item .reservation-room_name a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room_item .reservation-room_img{
     float:left;
@@ -7596,7 +7597,7 @@ blockquote p:after{
     display:inline-block;
     clear:both;
     margin-top:10px;
-    color:#e1bd85;
+    color:#27775b;
     font-size:12px;
     font-weight:600;
     margin-bottom:25px;
@@ -7607,7 +7608,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-room_item .reservation-room_text .reservation-room_view-more:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-room_item .reservation-room_text .reservation-room_price{
     display:inline-block;
@@ -7691,7 +7692,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-package_item .reservation-package_text h4 a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-package_item .reservation-package_text p{
     color:#898989;
@@ -7770,7 +7771,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-billing-detail .reservation-login a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-billing-detail h4{
     color:#000;
@@ -7834,7 +7835,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 .reservation-billing-detail .reservation-code a:hover{
-    color:#e1bd85
+    color:#27775b
 }
 .reservation-billing-detail .option-bank{
     list-style:none;
@@ -7892,9 +7893,9 @@ blockquote p:after{
 }
 #footer .footer_top .mailchimp h4:before{
     content:"\f003";
-    border:3px solid #e1bd85;
+    border:3px solid #27775b;
     padding:10px;
-    color:#e1bd85;
+    color:#27775b;
     margin-right:20px;
     font-size:18px;
     font-family:'FontAwesome';
@@ -7936,14 +7937,14 @@ blockquote p:after{
     padding:7px 10px;
     height:40px;
     color:#fff;
-    background-color:#e1bd85;
+    background-color:#27775b;
     font-size:16px;
     text-transform:uppercase;
     margin-left:10px
 }
 #footer .footer_top .mailchimp .mailchimp-form .awe-btn:hover{
     background:#fff;
-    color:#e1bd85
+    color:#27775b
 }
 #footer .footer_top .social .social-content{
     font-size:0
@@ -7969,7 +7970,7 @@ blockquote p:after{
     -o-transition:all .3s ease
 }
 #footer .footer_top .social .social-content a:hover{
-    border-color:#e1bd85
+    border-color:#27775b
 }
 #footer .footer_center{
     padding-bottom:40px
@@ -8008,7 +8009,7 @@ blockquote p:after{
     color:#acacac
 }
 #footer .footer_center .widget-logo .text p a:hover{
-    color:#e1bd85;
+    color:#27775b;
     text-decoration:underline
 }
 #footer .footer_center .widget-logo .text p:last-child{
@@ -9603,3 +9604,16 @@ blockquote p:after{
     margin-top:15px
 }
 /*# sourceMappingURL=style.css.map */
+.header_right.float-right a {
+    padding-right: 20px;
+    color: #fff;
+}
+.section-accomd {
+    background-color: #fff;
+}
+.pdt-70{
+    padding-top:70px;
+}
+.pdb-70{
+    padding-bottom: 70px;
+}
