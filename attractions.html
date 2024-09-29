@@ -10,6 +10,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
     <!-- GOOGLE FONT -->
     <link href='http://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700' rel='stylesheet' type='text/css'>
 
@@ -56,8 +62,8 @@
             <div class="header_top">
                 <div class="container">
                     <div class="header_left float-left">
-                        <span><i class="lotus-icon-cloud"></i> 18 °C</span>
-                        <span><i class="lotus-icon-location"></i> 225 Beach Street, Australian</span>
+                        <!-- <span><i class="lotus-icon-cloud"></i> 18 °C</span> -->
+                        <span><i class="lotus-icon-location"></i> Kopar Alibaug Naigaon</span>
                         <span><i class="lotus-icon-phone"></i> 1-548-854-8898</span>
                     </div>
                     <div class="header_right float-right">
@@ -85,7 +91,7 @@
                     <!-- HEADER MENU -->
                     <nav class="header_menu">
                         <ul class="menu">
-                            <li class="current-menu-item">
+                            <li >
                                 <a href="index.html">Home </a>
                             </li>
                             <li><a href="about.html">About</a></li>
@@ -93,15 +99,15 @@
                             <li>
                                 <a href="our-room.html">Room <span class="fa fa-caret-down"></span></a>
                                 <ul class="sub-menu">
-                                    <li><a href="room-detail.html">Room 1</a></li>
-                                    <li><a href="room-detail.html">Room 2</a></li>
+                                   <li><a href="deluxe-room.html">Deluxe Room</a></li>
+                                    <li><a href="super-deluxe-room.html">Super Deluxe Room</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="restaurant.html">Restaurant</a>
                             </li>
                             <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="#">Nearby Attraction </a></li>
+                            <li class="current-menu-item"><a href="attractions.html">Nearby Attraction</a></li>
 
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
@@ -127,7 +133,7 @@
             <div class="sub-banner">
                 <div class="container">
                     <div class="text text-center">
-                        <h2>MAP</h2>
+                        <h2>Nearby Attraction</h2>
                         <!--<p>Lorem Ipsum is simply dummy text of the printing</p>-->
                     </div>
                 </div>
@@ -139,7 +145,7 @@
         <section class="section-attractions bg-white">
 
             <!-- MAPS -->
-            <div class="attraction-maps" id="attraction-maps"></div>
+            <!-- <div class="attraction-maps" id="attraction-maps"></div> -->
             <!-- END / MAPS -->
 
             <div class="container">
@@ -157,7 +163,7 @@
                                 <div class="attraction_sidebar-content">
                                     <h3 class="attraction_title"><i class="fa fa-map-marker"></i>Island Retreat Hotel &amp; RESORT</h3>
 
-                                    <select class="attraction_select awe-select">
+                                    <!-- <select class="attraction_select awe-select">
                                         <option>Local Attractions</option>
                                         <option>Arthur Ashe Center</option>
                                         <option>Carytown Street</option>
@@ -165,24 +171,14 @@
                                         <option>James River Plantations</option>
                                         <option>Jamestown Settlement</option>
                                         <option>Kings Dominion</option>
-                                    </select>
+                                    </select> -->
 
                                     <ul class="attraction_location" id="attraction_location">
-                                        <li class="active"><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Arthur Ashe Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.576861,-98.459881" data-title="Carytown Street" data-address="3325 West Cary Street">Carytown Street</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.576922,-98.463700" data-title="Carytown Street" data-address="3325 West Cary Street">Greater Richmond Convention Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.577172,-98.457327" data-title="Carytown Street" data-address="3325 West Cary Street">James River Plantations</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.573949,-98.462402" data-title="Carytown Street" data-address="3325 West Cary Street">Jamestown Settlement</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Kings Dominion</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Lewis Ginter Botanical Garden</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Maymont Foundation</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond International Raceway</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Richmond National Battlefield Park</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Short Pump Town Center</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">The Diamond- Richmond Flying Squirrels</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">University of Richmond</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Virginia Commonwealth University</a></li>
-                                        <li><i class="fa fa-map-marker"></i><a href="ajax/ajax-attraction.html" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Busch Gardens Williamsburg</a></li>
+                                        <li class="active"><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.5748755,-98.4596874" data-title="Carytown Street" data-address="3325 West Cary Street">Arthur Ashe Center</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.576861,-98.459881" data-title="Carytown Street" data-address="3325 West Cary Street">Carytown Street</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.576922,-98.463700" data-title="Carytown Street" data-address="3325 West Cary Street">Greater Richmond Convention Center</a></li>
+                                        <li><i class="fa fa-map-marker"></i><a href="#" data-latlng="36.577172,-98.457327" data-title="Carytown Street" data-address="3325 West Cary Street">James River Plantations</a></li>
+                                       
                                     </ul>
 
                                 </div>
@@ -193,7 +189,7 @@
 
                         <div class="col-md-8">
 
-                            <div class="attraction_detail">
+                            <!-- <div class="attraction_detail">
                                 <div class="attraction_detail-header">
                                     <h2 class="attraction_detail-title"><i class="fa fa-map-marker"></i>Carytown Street</h2>
                                     <ul>
@@ -208,7 +204,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="attraction_content" id="attraction_content">
 
@@ -285,7 +281,7 @@
                                         <li><a href="restaurant.html">Restaurant</a></li>
                                         <li><a href="gallery.html">Gallery</a></li>
                                         <li><a href="contact.html">Contact Us</a></li>
-                                        <li><a href="">Nearby Attraction</a></li>
+                                        <li><a href="attractions.html">Nearby Attraction</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -306,7 +302,7 @@
                                     <div class="text">
                                         <p><i class="lotus-icon-location mr10"></i> 225 Beach Street, Australian</p>
                                         <p><i class="lotus-icon-phone mr10"></i> 1-548-854-8898</p>
-                                        <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:hello@thelotushotel.com">hello@thelotushotel.com</a>
+                                        <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:hello@theislandretreathotel.com">hello@theislandretreathotel.com</a>
                                         </p>
                                     </div>
                                 </div>

@@ -10,6 +10,12 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
     <!-- GOOGLE FONT -->
     <link href='http://fonts.googleapis.com/css?family=Hind:400,300,500,600%7cMontserrat:400,700' rel='stylesheet' type='text/css'>
 
@@ -56,8 +62,8 @@
             <div class="header_top">
                 <div class="container">
                     <div class="header_left float-left">
-                        <span><i class="lotus-icon-cloud"></i> 18 °C</span>
-                        <span><i class="lotus-icon-location"></i> 225 Beach Street, Australian</span>
+                        <!-- <span><i class="lotus-icon-cloud"></i> 18 °C</span> -->
+                        <span><i class="lotus-icon-location"></i> Kopar Alibaug Naigaon</span>
                         <span><i class="lotus-icon-phone"></i> 1-548-854-8898</span>
                     </div>
                     <div class="header_right float-right">
@@ -93,15 +99,15 @@
                             <li>
                                 <a href="our-room.html">Room <span class="fa fa-caret-down"></span></a>
                                 <ul class="sub-menu">
-                                    <li><a href="room-detail.html">Room 1</a></li>
-                                    <li><a href="room-detail.html">Room 2</a></li>
+                                   <li><a href="deluxe-room.html">Deluxe Room</a></li>
+                                    <li><a href="super-deluxe-room.html">Super Deluxe Room</a></li>
                                 </ul>
                             </li>
                             <li  class="current-menu-item">
                                 <a href="restaurant.html">Restaurant</a>
                             </li>
                             <li><a href="gallery.html">Gallery</a></li>
-                            <li><a href="#">Nearby Attraction </a></li>
+                            <li><a href="attractions.html">Nearby Attraction</a></li>
 
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
@@ -137,7 +143,58 @@
 
         </section>
         <!-- END / SUB BANNER -->
-        
+        <!-- DEALS PACKAGE -->
+   <section class="section-deals mt100">
+    <div class="container">
+        <div class="content">
+            <!-- <div class="row">
+                <div class="col col-xs-12 col-lg-6 col-lg-offset-3">
+                    <div class="ot-heading row-20 mb30 text-center">
+                        <h2>Deals & PACKAGE</h2>
+                    </div>
+                </div>
+            </div> -->
+            <div class="row v-align">
+                <div class="col-xs-12 col-sm-6">
+                    <div class="img-deals img-hover-box">
+                        <div class="img">
+                            <img src="img/rest.-bg.png" alt="" class="img-responsive img-full">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-6">
+                    <div class="text">
+                        <h2 class="heading">ABOUT US</h2>
+                        <span class="box-border"></span>
+                        <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source</p>
+                        <a href="#" class="awe-btn awe-btn-default">Book Now</a>
+                    </div>
+                    <!-- <div class="item item-deal">
+                        <div class="img">
+                            <img class="img-full" src="images/home-3/deals/deals-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <a class="title bold f26 font-monserat upper" href="!#">Spa salon</a>
+                            <p class="sub font-monserat f12 f-600 upper mt10 mb20">package</p>
+                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="!#">Click hear</a>
+                        </div>
+                    </div>
+                    <div class="item item-deal">
+                        <div class="img">
+                            <img class="img-full" src="images/home-3/deals/deals-1.png" alt="">
+                        </div>
+                        <div class="info">
+                            <a class="title bold f26 font-monserat upper" href="!#">weeding</a>
+                            <p class="sub font-monserat f12 f-600 upper mt10 mb20">event</p>
+                            <a class="awe-btn awe-btn-12 btn-medium font-hind bold f12" href="!#">Read more</a>
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- END / DEALS PACKAGE -->
         <!-- RESTAURANTS -->
         <section class="section-restaurant-4 bg-white">
             <div class="container">
@@ -916,7 +973,7 @@
         <!-- RESERVATION -->
         <section class="section-reservation bg-17">
             <div class="container">
-                <div class="reservation">
+                <div class="reservation  col-md-7">
                     <h2>reservation</h2>
 
                     <div class="reservation_form">
@@ -1119,9 +1176,9 @@
             </div>
         </section>
         <!-- END / GALLERY RESTAURANT -->
-
+   
         <!-- EVENT DEAL RESTAURANT -->
-        <section class="section-event-restaurant bg-18">
+        <!-- <section class="section-event-restaurant bg-18">
             
 
             <div class="container">
@@ -1179,7 +1236,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- END / EVENT DEAL RESTAURANT -->
 
         <!-- FOOTER -->
@@ -1219,7 +1276,7 @@
                                     <li><a href="restaurant.html">Restaurant</a></li>
                                     <li><a href="gallery.html">Gallery</a></li>
                                     <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="">Nearby Attraction</a></li>
+                                    <li><a href="attractions.html">Nearby Attraction</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1227,10 +1284,8 @@
                             <div class="widget">
                                 <h4 class="widget-title f20 bold">Our Rooms</h4>
                                 <ul>
-                                    <li><a href="room-detail.html">Room 1</a></li>
-                                    <li><a href="room-detail.html">Room 2</a></li>
-                                    <li><a href="room-detail.html">Room 3</a></li>
-                                    <li><a href="room-detail.html">Room 4</a></li>
+                                   <li><a href="deluxe-room.html">Deluxe Room</a></li>
+                                    <li><a href="super-deluxe-room.html">Super Deluxe Room</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -1238,9 +1293,9 @@
                             <div class="widget">
                                 <h4 class="widget-title f20 bold">Contact Information</h4>
                                 <div class="text">
-                                    <p><i class="lotus-icon-location mr10"></i> 225 Beach Street, Australian</p>
-                                    <p><i class="lotus-icon-phone mr10"></i> 1-548-854-8898</p>
-                                    <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:hello@thelotushotel.com">hello@thelotushotel.com</a>
+                                    <p><i class="lotus-icon-location mr10"></i><a href="#"> Ghar no 3430 At kopar Alibaug Naigaon Alibaug Ragad 402204, 402204 Alībāg, India</a></p>
+                                    <p><i class="lotus-icon-phone mr10"></i><a href="#"> 1-548-854-8898</a></p>
+                                    <p><i class="fa fa-envelope-o mr10"></i> <a href="mailto:hello@theislandretreathotel.com">hello@theislandretreathotel.com</a>
                                     </p>
                                 </div>
                             </div>
